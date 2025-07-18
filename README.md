@@ -1,8 +1,18 @@
 # Oii! 👋 Meu nome é Gabriellli Lais
 
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
+
+<div>
+
 💻 Técnica em Informática para Internet  
 🚀 Apaixonada por tecnologia, desenvolvimento web e banco de dados  
 🧠 Sempre aprendendo e buscando crescer profissionalmente
+
+</div>
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
+
+</div>
 
 ---
 
@@ -27,11 +37,3 @@
 ## 📊 Minhas Linguagens Mais Usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=GABRIELLILAIS&locale=pt-br&layout=compact&theme=dracula&hide_border=false)
-
----
-
-### 🐱‍💻 Um gif só pra quebrar o gelo:
-
-<p align="right">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
-</p>
