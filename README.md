@@ -1,4 +1,4 @@
-# Oii! 👋 Meu nome é Gabriellli Lais
+# Oii! 👋 Meu nome é Gabriellli 
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
 
