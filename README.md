@@ -1,18 +1,19 @@
 # Oii! 👋 Meu nome é Gabriellli 
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
-
-<div>
+<table>
+  <tr>
+    <td>
 
 💻 Técnica em Informática para Internet  
 🚀 Apaixonada por tecnologia, desenvolvimento web e banco de dados  
 🧠 Sempre aprendendo e buscando crescer profissionalmente
 
-</div>
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
-
-</div>
+    </td>
+    <td align="right">
+      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" />
+    </td>
+  </tr>
+</table>
 
 ---
 
