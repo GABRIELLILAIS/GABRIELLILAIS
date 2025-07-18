@@ -1,7 +1,7 @@
 # Oii! 👋 Meu nome é Gabriellli Lais
 
 💻 Técnica em Informática para Internet  
-🚀 Apaixonada por tecnologia, desenvolvimento web e banco de dados
+🚀 Apaixonada por tecnologia, desenvolvimento web e banco de dados 
 🧠 Sempre aprendendo e buscando crescer profissionalmente
 
 ---
